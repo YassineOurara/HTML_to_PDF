@@ -10,8 +10,6 @@ Converting HTML to Pdf in Django
     Now come inside your app , HTMLtoPDF  and create a utils.py file.
     Inside this file we will implement render_to_pdf function.
 
-Inside this file we will implement render_to_pdf function.
-
 3_Creating a Template
 
     Now create a directory templates and inside this create a html file and named it as hello.html.
